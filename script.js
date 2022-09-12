@@ -1,0 +1,2 @@
+$(".box").text("Hello world");
+
